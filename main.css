@@ -1,0 +1,18 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white ;
+    color: khaki;
+    border: 3px solid #6b6b6b;
+}
+h2{
+    font-family: sans-serif;
+    color: navy;
+}
+canvas{
+    border-radius: 10px;
+}
